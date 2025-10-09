@@ -10,8 +10,8 @@ I love building impactful projects, exploring new technologies, and solving real
 ## 🔧 Tech Stack
 
 💻 **Languages**: Python · Java · JavaScript
-🎨 **Frontend**: HTML · CSS · React.js
-🛠️ **Backend**: Django · Flask · MySQL · MongoDB
+🎨 **Frontend**: HTML · CSS3 · React.js . 
+🛠️ **Backend**:  Flask · MySQL · MongoDB 
 ⚙️ **Tools**: IntelliJ IDEA · VS Code · Git/GitHub · Jupyter · Wireshark · Qualnet · MongoDB Compass
 
 ---
@@ -24,26 +24,10 @@ I love building impactful projects, exploring new technologies, and solving real
 
 ---
 
-## 📂 Featured Projects
-
-🚀 **[Automated Attendance System](#)**
-Real-time face recognition system using Python, OpenCV & MySQL (95%+ accuracy, reduced attendance time by 90%).
-
-🎮 **[AI Tic Tac Toe](#)**
-Unbeatable AI with Minimax algorithm, smooth UI animations, and responsive design.
-
-🏎️ **[Car Racing Game](#)**
-Interactive 2D game built on HTML5 Canvas & JavaScript with collision detection & score tracking.
-
-✅ **[Smart To-Do List](#)**
-React.js app with drag-and-drop, due-date reminders, and offline persistence.
-
----
-
 ## 💼 Experience
 
 * 🏭 **Assistant Engineer** @ Dixon Technologies Pvt. Ltd. (2022–2023)
-  Worked on PCB design & optimized automated mounter errors.
+  Worked on PCB design & optimised automated mounter errors.
 
 * 🔐 **Ethical Hacking & Penetration Testing Intern** @ C-DAC Noida (2025)
   Hands-on with Kali Linux, Wireshark, phishing attacks & penetration testing.
