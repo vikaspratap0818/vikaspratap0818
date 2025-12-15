@@ -1,4 +1,4 @@
-![logo] ()
+![logo](https://github.com/vikaspratap0818/vikas00714/blob/main/Gemini_Generated_Image_xzdr1nxzdr1nxzdr.png)
 # Hi, I'm Vikas Pratap 👋
 
 🎓 **B.Tech (IT)** | 💻 **Full-Stack Developer** | 🤖 **AI & ML Enthusiast**
