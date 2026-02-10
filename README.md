@@ -4,7 +4,7 @@
 🎓 **B.Tech (IT)** | 💻 **Full-Stack Developer** | 🤖 **AI & ML Enthusiast**  
 I build **impactful solutions**, solve **real-world problems**, and explore **cutting-edge technologies**.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;AI+ML+Enthusiast;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;AI+ML+Enthusiast;Problem+Solver)
 
 ---
 
