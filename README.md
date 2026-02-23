@@ -18,14 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔝 Top Contributed Repo
-
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspratap0818&layout=compact&theme=dark)
-
-![](https://visitcount.itsvg.in/api?id=vikaspratap0818&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ## 🏆 Achievements
 
 - 🥇 Solved **300+ problems** on GeeksforGeeks (**Top 10 on Campus**)  
@@ -67,5 +59,4 @@ A browser-based 2D racing game with score tracking, collision detection, and res
 Classic Snake game implementation on a dynamic canvas with increasing speed and score tracking.  
 🔗 https://github.com/vikaspratap0818/Snake-Js-Playground
 
----
 
