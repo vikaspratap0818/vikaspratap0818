@@ -39,7 +39,7 @@
 ---
 
 ## 💼 Experience
-**Full Stack Developer Intern at The Developer Arena (2025-2026)
+**Full Stack Developer Intern** at The Developer Arena (2025-2026)
 - This internship have gain lot of knowledge and worked on real world project.
 - I learn and practice the full-stack technology in my projects .
 
